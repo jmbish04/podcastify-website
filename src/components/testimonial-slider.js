@@ -70,7 +70,7 @@ export function TestimonialSlider() {
                 className="animate-fadeIn transition-opacity duration-500"
               >
                 <blockquote className="mb-8 text-xl font-medium italic md:text-2xl">
-                  "{testimonials[current].quote}"
+                  &quot;{testimonials[current].quote}&quot;
                 </blockquote>
                 <div className="flex items-center gap-4">
                   <div className="h-12 w-12 overflow-hidden rounded-full">

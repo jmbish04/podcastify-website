@@ -279,7 +279,7 @@ export default function GuestsPage() {
                 Want to Be a Guest?
               </h2>
               <p className="mt-4 text-gray-600 dark:text-gray-300">
-                We're always looking for inspiring individuals with unique
+                We&apos;re always looking for inspiring individuals with unique
                 stories and valuable insights to share.
               </p>
               <div className="mt-8 flex flex-col gap-4 sm:flex-row sm:justify-center">

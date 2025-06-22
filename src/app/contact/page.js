@@ -36,11 +36,11 @@ export default function ContactPage() {
                 <span className="block text-purple-700 dark:text-purple-400">
                   Get in Touch
                 </span>
-                <span>We'd Love to Hear From You</span>
+                <span>We&apos;d Love to Hear From You</span>
               </h1>
               <p className="mt-6 text-lg text-gray-600 dark:text-gray-300">
                 Have questions, feedback, or want to suggest a guest? Reach out
-                to our team and we'll get back to you soon.
+                to our team and we&apos;ll get back to you soon.
               </p>
             </div>
           </div>
@@ -55,8 +55,8 @@ export default function ContactPage() {
                   Contact Information
                 </h2>
                 <p className="mt-4 text-gray-600 dark:text-gray-300">
-                  We're here to help and answer any questions you might have. We
-                  look forward to hearing from you.
+                  We&apos;re here to help and answer any questions you might
+                  have. We look forward to hearing from you.
                 </p>
                 <div className="mt-8 space-y-6">
                   <div className="flex items-start gap-4">
@@ -69,7 +69,7 @@ export default function ContactPage() {
                         hello@podcastify.com
                       </p>
                       <p className="text-sm text-gray-500 dark:text-gray-400">
-                        We'll respond within 24-48 hours
+                        We&apos;ll respond within 24-48 hours
                       </p>
                     </div>
                   </div>
@@ -128,8 +128,8 @@ export default function ContactPage() {
                     Send Us a Message
                   </h2>
                   <p className="mt-4 text-gray-600 dark:text-gray-300">
-                    Fill out the form below and we'll get back to you as soon as
-                    possible.
+                    Fill out the form below and we&apos;ll get back to you as
+                    soon as possible.
                   </p>
                   <form className="mt-8 space-y-6">
                     <div className="grid gap-6 sm:grid-cols-2">
